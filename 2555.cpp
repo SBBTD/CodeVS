@@ -1,0 +1,13 @@
+#include<cstdio>
+#include<cstring>
+#include<iostream> 
+using namespace std;
+int main()
+{
+    int a,b;
+    cin>>a;
+    getchar();
+    cin>>b;
+    cout << a + b << endl;
+    return 0;
+}
